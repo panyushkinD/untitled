@@ -13,6 +13,8 @@ public class Main {
             }
             System.out.println("Привет");
 
+            System.out.println("ПРИВЕТ ДАНИЛ");
+
             if (c == '+') {
 
                 int rez = firstName + lastName;
